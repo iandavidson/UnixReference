@@ -19,3 +19,6 @@ Unix Reference
  * cd .. : takes to parent directory
  * cd ../.. : takes to grandparent directory
  * cd with no arguments takes to home directory
+* more: displays text file while showing 1 page at a time
+ * "return" or "spacebar": moves display forward one page/one page down
+ * "b": moves display back one page
