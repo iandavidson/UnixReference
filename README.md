@@ -18,3 +18,4 @@ Unix Reference
  * cd <directory name>: into <directory name>
  * cd .. : takes to parent directory
  * cd ../.. : takes to grandparent directory
+ * cd with no arguments takes to home directory
