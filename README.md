@@ -9,3 +9,8 @@ Unix Reference
 * man: manual/help page for any command
  * man ls
 * touch: either creates new empty file or updates last modified date on existing file
+* repeating previous commands
+ * !
+ * up arrow
+ * history: gives numbered list of previous commands, usable with ! command
+  * !29 
