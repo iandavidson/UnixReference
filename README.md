@@ -22,3 +22,7 @@ Unix Reference
 * more: displays text file while showing 1 page at a time
  * "return" or "spacebar": moves display forward one page/one page down
  * "b": moves display back one page
+* cat : Concatenate multiple files together
+ * cat file1 file2
+* ^ : used to exchange text in command line
+ * ^cat^more^ 
